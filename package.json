@@ -24,7 +24,7 @@
     "discord.js-commando": "github:discordjs/Commando",
     "dotenv": "^5.0.1",
     "ffmpeg-binaries": "^3.2.2",
-    "node-fetch": "^2.1.2",
+    "node-fetch": "^2.6.1",
     "node-opus": "^0.2.7",
     "ytdl-core": "^0.20.2"
   }
